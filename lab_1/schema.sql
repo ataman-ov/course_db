@@ -1,3 +1,5 @@
+-- База данных: production_db
+
 CREATE TABLE product_group (
     group_id SERIAL PRIMARY KEY,
     group_name VARCHAR(100) NOT NULL

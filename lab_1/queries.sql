@@ -1,3 +1,5 @@
+-- База данных: production_db
+
 SELECT 
     p.product_code AS "Обозначение изделия",
     pg.group_name AS "Группа",
